@@ -1,2 +1,2 @@
 Model,Data Train,Data Test,Epochs,Batch Size,Loss,Accuracy
-<keras.src.engine.sequential.Sequential object at 0x000001F0A93A76D0>,"(800, 28, 1)","(200, 28, 1)",30,32,0.01797403395175934,0.9950000047683716
+<keras.src.engine.sequential.Sequential object at 0x0000025D7305EE90>,"(800, 28, 1)","(200, 28, 1)",30,32,0.015860186889767647,0.9950000047683716
